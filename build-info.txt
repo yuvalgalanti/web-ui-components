@@ -1,0 +1,3 @@
+Package version: 0.1.32
+Travis build URL: https://travis-ci.org/kubevirt/web-ui-components/builds/522696244
+Built on: Sun, 21 Apr 2019 10:50:49 GMT
